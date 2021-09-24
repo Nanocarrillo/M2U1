@@ -1,0 +1,35 @@
+/*font-family: "Grechen Fuemen", cursive;*/
+
+.cajaM2U2 {
+  width: 100px;
+  height: 100px;
+  background-color: #6495ed;
+  text-align: center;
+  box-shadow: 38px 19px 11px 15px rgba(0, 0, 0, 0.34);
+  -webkit-box-shadow: 38px 19px 11px 15px rgba(0, 0, 0, 0.34);
+  -moz-box-shadow: 38px 19px 11px 15px rgba(0, 0, 0, 0.34);
+  margin-bottom: 20px;
+}
+
+.cajaM2U2 p {
+  margin: 10px;
+}
+
+.texto h1 {
+  font-family: "Grechen Fuemen", cursive;
+}
+
+.texto {
+  width: 400px;
+  column-count: 4;
+  -webkit-column-count: 4;
+  -moz-column-count: 4;
+  column-gap: 13px;
+  -webkit-column-gap: 13px;
+  -moz-column-gap: 13px;
+  column-rule: 3px ridge #000000;
+  -webkit-column-rule: 3px ridge #000000;
+  -moz-column-rule: 3px ridge #000000;
+  background-color: cyan;
+  margin-bottom: 20px;
+}
